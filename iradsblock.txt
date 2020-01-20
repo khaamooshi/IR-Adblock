@@ -1,0 +1,11 @@
+# Iranian Ad-Block-List by Saber Khamooshi
+# Date: 20 January 2020 15:12:14 (UTC)
+https://media.farsnews.com/
+http://media.farsnews.com/
+https://media.farsnews.net/
+http://media.farsnews.net/
+https://media.farsnews.ir/
+http://media.farsnews.ir/
+https://www.isna.ir/redirect/ads/
+https://www.isna.ir/redirect/ads/
+
