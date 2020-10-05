@@ -1,5 +1,7 @@
 # Iranian Ad-Block-List by Saber Khamooshi
 # Date: 5 Oct 2020 12:24:40 (UTC)
+yektanet.com
+www.yektanet.com
 ck.yektanet.com
 app.najva.com
 
