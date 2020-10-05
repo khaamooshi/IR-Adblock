@@ -2,6 +2,7 @@
 # Date: 5 Oct 2020 12:24:40 (UTC)
 ua.yektanet.com
 ck.yektanet.com
+cdn.yektanet.com
 native.yektanet.com
 app.najva.com
 
